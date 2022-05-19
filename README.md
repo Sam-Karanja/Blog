@@ -1,6 +1,6 @@
 # Blog
 
-## Built By [Tom Chege](https://github.com/emdeechege/)
+## Built By [Samuel Karanja](https://github.com/Sam-Karanja/)
 
 ## Description
 an application that allows users to use that one minute wisely. The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
@@ -49,7 +49,7 @@ Bloggers would like to:
 ### Cloning
 * In your terminal:
 
-        $ git clone https://github.com/emdeechege/peech/
+        $ git clone https://github.com/Sam-Karanja/pitch/
         $ cd peech
 
 ## Running the Application
@@ -79,7 +79,7 @@ Bloggers would like to:
 
 ## License
 
-Copyright (c) 2018 emdeechege
+Copyright (c) 2018 Sam-Karanja
 
 ------------
 
