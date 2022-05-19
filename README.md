@@ -49,7 +49,7 @@ Bloggers would like to:
 ### Cloning
 * In your terminal:
 
-        $ git clone https://github.com/Sam-Karanja/pitch/
+        $ git clone https://github.com/Sam-Karanja/Blog/
         $ cd peech
 
 ## Running the Application
@@ -71,7 +71,7 @@ Bloggers would like to:
 ## Testing the Application
 * To run the tests for the class files:
 
-        $ python3.6 manage.py test
+        $ python3 manage.py test
 
 ## Technologies Used
 * Python3.6
@@ -79,7 +79,7 @@ Bloggers would like to:
 
 ## License
 
-Copyright (c) 2018 Sam-Karanja
+Copyright (c) 2022 Sam-Karanja
 
 ------------
 
