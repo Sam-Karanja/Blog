@@ -50,7 +50,7 @@ Bloggers would like to:
 * In your terminal:
 
         $ git clone https://github.com/Sam-Karanja/Blog/
-        $ cd peech
+        $ cd Blog
 
 ## Running the Application
 * Creating the virtual environment
