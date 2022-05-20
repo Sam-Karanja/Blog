@@ -6,7 +6,7 @@ from ..models import *
 from . import main
 from .. import db,photos
 from .forms import *
-import markdown2
+import markdown
 
 @main.route('/')
 def index():
